@@ -1,8 +1,13 @@
-📌 Estudante de Desenvolvimento Web | Aprendendo JavaScript e Back-end  
-🚀 Buscando experiência na área e desenvolvendo projetos no GitHub  
-💡 Tecnologias: HTML, CSS, JavaScript (lógica), Git e GitHub  
+# Olá, Mundo em Java! ☕  
 
-<!---
-kaka18mika/kaka18mika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📌 Descrição:
+Este é meu primeiro programa em Java, exibindo a mensagem "Olá, Mundo!" no console.  
+
+🛠 Tecnologias usadas:  
+- Java  
+
+🚀 Como executar:
+1. Instale o [JDK](https://www.oracle.com/java/technologies/javase-downloads.html) se ainda não tiver.  
+2. Compile o arquivo com:  
+   ```bash
+   javac HelloWorld.java
